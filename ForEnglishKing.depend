@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1554782740 source:d:\codeblock\source\forenglishking\main.cpp
+	<iostream>
+	<stdio.h>
+	<dirent.h>
+	<windows.h>
+	<conio.h>
+	<cstring>
+
